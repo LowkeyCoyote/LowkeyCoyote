@@ -11,7 +11,7 @@ Always learning new things ! :smiley:
 
 ### Hobbies
 
-I also do some exercices on Codingame, Rootme and Frontendmentor sites :computer:
+I also do some challenges on Codingame, Rootme and Frontendmentor sites :computer:
 * [Codingame Profile](https://www.codingame.com/profile/15f314a389d59e24ee7da883b213a3f71173393)
 * [Rootme Profile](https://www.root-me.org/Clavar)
 * [FrontendMentor Profile](https://www.frontendmentor.io/profile/LowkeyCoyote)
