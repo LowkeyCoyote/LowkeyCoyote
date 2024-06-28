@@ -1,6 +1,6 @@
 ## Hello World ! 👋
 
-I'm a fullstack developer, located in Paris. :telescope: <br>
+I'm a Front-End developer, located in Paris. :telescope: <br>
 I mainly work on JavaScript technologies. <br>
 You can see some of my work on my [website](https://www.joska-gyuricza.fr/) !
 
